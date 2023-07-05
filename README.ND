@@ -2,11 +2,9 @@ Use Vps with Ubuntu 20.04
 
 Download Node v18.16.1:
 - sudo apt update
-- sudo apt install curl dirmngr apt-transport-https lsb-release ca-certificates
+- sudo apt install curl
 - curl -sL https://deb.nodesource.com/setup_18.x | sudo -E bash -
-- sudo apt install nodejs
-
-
+- sudo apt install -y nodejs
 
 Setup the src on your vps
 
