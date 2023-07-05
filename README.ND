@@ -19,5 +19,7 @@ Pour modifier le nom des logs allez dans Stealer/ClientObf/Utils dans discord.js
 
 Pour modifier le nom des embeds de build allez dans Stealer/Bot et dans index.js vous pouvez renammes le bot ^^
 
+/build icon: none (icon not work or crash bot) webhook_url: your webhook name: yourname with no space or crash bot
+
 official 1336 Channel
 https://t.me/St34ler
