@@ -9,9 +9,9 @@ Download Node v18.16.1:
 
 Setup the src on your vps
 
-sudo npm install
-sudo npm i pm2 -g
-sudo npm install -g pkg
+- sudo npm install
+- sudo npm i pm2 -g
+- sudo npm install -g pkg
 
 Pour modifier le nom des logs allez dans Stealer/ClientObf/Utils dans discord.js Modifier les émojis et le nom et dans stats.js c'est de même.
 
