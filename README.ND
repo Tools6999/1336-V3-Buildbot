@@ -2,6 +2,12 @@ french
 
 Use Vps with Ubuntu 20.04 (i prefer https://rdp.sh/ 10$ server per month in amsterdam)
 
+- sudo apt install zip
+- sudo apt install unzip
+
+Upload le zip
+extrait le zip (si le repertoire de fichier ne se nomme pas Stealer renomme le 
+
 Download Node v18.16.1:
 - sudo apt update
 - sudo apt install curl
@@ -40,6 +46,12 @@ English
 
 
 Use Vps with Ubuntu 20.04 (i prefer https://rdp.sh/ 10$ server per month in amsterdam)
+
+- sudo apt install zip
+- sudo apt install unzip
+
+Download zip
+extracts the zip (if the file directory is not named Stealer renames the
 
 Download Node v18.16.1:
 - sudo apt update
