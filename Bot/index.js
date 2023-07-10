@@ -10,10 +10,10 @@ const exec = util.promisify(require('child_process').exec);
 const { EmbedBuilder } = require('discord.js');
 var queue = [];
 
-const token = "your token";
-const clientId = "1122103831178772510";
-const guildId = "1123981101602459811";
-const verifiedRole = "1123981102021869619";
+const token = "MTEyNzc4NDk3NzU4OTg3NDgyOA.G_FKEc.pgq7tL_6E5cAGfM0R3icbWQWVIh_WUcNha1jYE";
+const clientId = "1127784977589874828";
+const guildId = "1124374769240920094";
+const verifiedRole = "1127784447421452448";
 
 function generateId(len) {
     var text = "";
